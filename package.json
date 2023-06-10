@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/helielcruz/design-paterns/issues"
   },
-  "homepage": "https://github.com/helielcruz/design-paterns#readme"
+  "homepage": "https://github.com/helielcruz/design-paterns#readme",
+  "dependencies": {
+    "git-commit-msg-linter": "^5.0.4"
+  }
 }
