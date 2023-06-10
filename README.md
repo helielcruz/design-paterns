@@ -1,1 +1,3 @@
 # design-paterns
+
+# conventionalcommits.org
