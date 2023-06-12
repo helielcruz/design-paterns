@@ -7,7 +7,8 @@ module.exports = {
   testEnvironment: "node",
   transform: {
     '.+\\.ts$': 'ts-jest'
-  }
+  },
+  watchman: true,
 
   // All imported modules in your tests should be mocked automatically
   // automock: false,
@@ -190,5 +191,5 @@ module.exports = {
   // watchPathIgnorePatterns: [],
 
   // Whether to use watchman for file crawling
-  // watchman: true,
+  
 };
