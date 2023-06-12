@@ -22,3 +22,9 @@
 
 # instalar = npm install ts-node --save-dev
 #   * usar = npx install ts-node arquivo.ts
+
+# instalar husky para rodar o eslint antes do commit e verificar se existe erro (npm i husky)
+
+# Criar arquivo .huskyrc.json
+
+# instalar lint-staged (npm i -D lint-staged) // Roda apenas os arquivos na stage area
