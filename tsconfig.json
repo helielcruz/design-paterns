@@ -1,9 +1,0 @@
-{
-    "compilerOptions": {
-        "outDir": "./dist",
-        "module": "CommonJS",
-        "target": "es2019",
-        "esModuleInterop": true, // Converte código incompatível de versões anteriores e faz funcionar,
-        "allowJs": true, // caso existam arquivos de configuração .js ao invés de .json ele vai permitir
-    }
-}
