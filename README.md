@@ -28,3 +28,7 @@
 # Criar arquivo .huskyrc.json
 
 # instalar lint-staged (npm i -D lint-staged) // Roda apenas os arquivos na stage area
+
+# TDD: instalar o jest (npm i -D jest @types/jest ts-jest)
+
+# npx jest --init ("test" script in "package.json"? yes // Typescript for the configuration file: node // Jest to add coverage reports? … yes // Automatically clear mock calls and instances between every test? no)
